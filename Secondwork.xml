@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding= "ISO-8859-1"?>
+<!-- <Library>
+    <Book:Catalog xmlns:Book="https://www.google.com">
+    <Book:Booklist>
+    <Book:Title Book:Type = "friction">Evening in paris</Book:Title>
+    <Book:price>$100</Book:price>
+    </Book:Booklist>
+
+    <Book:Booklist>
+    <Book:Title Book:Type = "novels">action</Book:Title>
+    <Book:price xmlns:Book="https://www.google.com">$80</Book:price>
+    </Book:Booklist>
+    </Book:Catalog>
+</Library> -->
+<!-- 
+<aptech>
+    <S:student xmlns:S="https://www.google.com">
+    <S:first>Hamza</S:first>
+    <S:last>Khan</S:last>
+    <S:address>PIB</S:address>
+</S:student>
+    <b:student xmlns:b="https://www.google.com">
+    <b:first>Hamza</b:first>
+    <b:last>Khan</b:last>
+    <b:address>PIB</b:address>
+</b:student>
+<C:counselor xmlns:C="https://www.google.com">
+    <C:first>Anas</C:first>
+    <C:last>ishtiaq</C:last>
+    <C:address>Bufferzone</C:address>
+    <C:salary>400000</C:salary>
+</C:counselor>
+<A:accountnnt xmlns:A="https://www.google.com">
+    <A:first>Rayyan</A:first>
+    <A:last>Khan</A:last>
+    <A:address>Ayesha Manzil</A:address>
+    <A:salary>200000</A:salary>erzone</C:address>
+    <C:salary>400000</C:salary>
+</C:counselor>
+<A:accountnnt xmlns:A="https://www.google.com">
+    <A:first>Rayyan</A:first>
+    <A:last>Khan</A:last>
+    <A:address>Ayesha Manzil</A:address>
+    <A:salary>200000</A:salary>
+</A:accountant>
+</aptech> -->
+
+<aptech>
+    <Student>
+        <firstname>Hadi</firstname>
+        <lastname>Ali</lastname>
+        <Id>10</Id>
+    </Student>
+
+
+    <Student>
+        <firstname>Mohib</firstname>
+        <lastname>Ali</lastname>
+        <Id>12</Id>
+    </Student>
+
+
+    <Student>
+        <firstname>Hamza</firstname>
+        <lastname>Khan</lastname>
+        <Id>08</Id>
+    </Student>
+</aptech>

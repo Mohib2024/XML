@@ -1,0 +1,62 @@
+<!-- <?xml version="1.0" encoding="ISO-8859-1"?> -->
+<!-- <note>
+<to>To sister</to>
+<from>sarah</from>
+<heading>Reminder</heading>
+<body>Don't forget to come this weekend!</body>
+</note> -->
+<!-- 
+<aptech>
+<batch>
+<bnsme>07 E2</bnsme>
+<sname>Shami</sname>
+<id>1</id>
+<git>05</git>
+<php>90</php>
+</batch>
+
+<batch>
+<bnasme>07 E2</bnasme>
+<sname>Ali</sname>
+<id>2</id>
+<git>06</git>
+<php>10</php>
+</batch>
+</aptech> -->
+
+<Whatsapp>
+
+<mesenger>
+<sender>hi</sender>
+<Resieveer>hello</Resieveer>
+<body>
+    hello
+</body>
+</mesenger>
+
+<mesenger>
+<sender>hi</sender>
+<Resieveer>hello</Resieveer>
+<body>
+    hello
+</body>
+</mesenger>
+
+<mesenger>
+<sender>hi</sender>
+<Resieveer>hello</Resieveer>
+<body>
+    hello
+</body>
+</mesenger>
+
+
+<mesenger>
+<sender>hi</sender>
+<Resieveer>hello</Resieveer>
+<body>
+    hello
+</body>
+</mesenger>
+
+</Whatsapp>
